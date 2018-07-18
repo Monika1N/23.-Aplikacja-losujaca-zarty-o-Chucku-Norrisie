@@ -1,2 +1,2 @@
-# Zadanie-12.4-Pierwsze-zapytanie-do-serwera
-https://monika1n.github.io/Zadanie-12.4-Pierwsze-zapytanie-do-serwera/
+# Aplikacja losująca żarty o Chucku Norrisie
+https://monika1n.github.io/23.-Aplikacja-losujaca-zarty-o-Chucku-Norrisie/
